@@ -22,4 +22,3 @@ Height	Weight	Label
 7	7	Cat
 7.5	8	Cat
 8	11	Cat
-
