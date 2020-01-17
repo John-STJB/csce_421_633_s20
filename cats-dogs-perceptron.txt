@@ -10,7 +10,7 @@ Height	Weight	Label
 27	45	Dog
 23	90	Dog
 13	18	Cat
-8	16	Cat
+8	13	Cat
 8.2	14	Cat
 6	10	Cat
 7	11	Cat
